@@ -75,6 +75,7 @@ input {
   text-align: center;
   margin-bottom: 20px;
   color: #121212;
+  text-transform: capitalize;
 }
 .section-title p {
   font-weight: 400;
